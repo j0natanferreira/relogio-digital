@@ -35,7 +35,7 @@ span{
     width: 150px;
     height: 150px;
     background-color: rgb(83, 83, 83);
-
+    box-shadow: 0 0 10px 1px #181818;
 }
 
 .pontos {
